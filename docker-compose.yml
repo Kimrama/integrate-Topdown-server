@@ -1,0 +1,68 @@
+version: "3"
+services:
+    flask-api:
+        build:
+            context: ./server-API
+            dockerfile: Dockerfile
+        ports:
+            - "5000:5000"
+        environment:
+            - FLASK_ENV=development
+        volumes:
+            - ./server-API:/app
+        networks:
+            - mqtt_network
+
+    mqtt-broker:
+        image: eclipse-mosquitto
+        container_name: mqtt-broker
+        ports:
+            - "1883:1883"
+            - "9001:9001"
+        volumes:
+            - ./mosquitto/mosquitto_config:/mosquitto/config
+            - ./mosquitto/mosquitto_data:/mosquitto/data
+            - ./mosquitto/mosquitto_log:/mosquitto/log
+        networks:
+            - mqtt_network
+
+    file-server:
+        build: .
+        ports:
+            - "8000:8000"
+        volumes:
+            - ./downloads:/app/downloads
+        container_name: file-server
+        networks:
+            - mqtt_network
+
+    mongoDB:
+        image: mongo:latest
+        container_name: mongodb_container
+        ports:
+            - "27017:27017"
+        volumes:
+            - ./mongoDB:/data/db
+        networks:
+            - mqtt_network
+
+    websocket-watcher:
+        build:
+            context: ./websocket-watcher
+            dockerfile: Dockerfile
+        container_name: node-websocket-watcher
+        depends_on:
+            - mongoDB
+        environment:
+            - MONGO_URL=mongodb://mongodb_container:27017
+            - WS_URL=ws://technest.ddns.net:8001/ws
+            - API_KEY=a6d6b457cd4b3813f16e5b0d3816613d
+        ports:
+            - "8001:8001"
+        networks:
+            - mqtt_network
+        restart: always
+
+networks:
+    mqtt_network:
+        driver: bridge

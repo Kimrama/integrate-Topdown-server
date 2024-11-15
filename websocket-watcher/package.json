@@ -1,0 +1,13 @@
+{
+    "name": "websocket-watcher",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "mongodb": "^4.13.0",
+        "uuid": "^9.0.0",
+        "ws": "^8.13.0"
+    }
+}

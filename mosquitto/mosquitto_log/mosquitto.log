@@ -1,0 +1,889 @@
+1731432276: mosquitto version 2.0.20 starting
+1731432276: Config loaded from /mosquitto/config/mosquitto.conf.
+1731432276: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731432276: Opening ipv4 listen socket on port 1883.
+1731432276: mosquitto version 2.0.20 running
+1731432284: mosquitto version 2.0.20 terminating
+1731432284: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731432292: mosquitto version 2.0.20 starting
+1731432292: Config loaded from /mosquitto/config/mosquitto.conf.
+1731432292: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731432292: Opening ipv4 listen socket on port 1883.
+1731432292: mosquitto version 2.0.20 running
+1731432308: mosquitto version 2.0.20 terminating
+1731432308: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731432314: mosquitto version 2.0.20 starting
+1731432314: Config loaded from /mosquitto/config/mosquitto.conf.
+1731432314: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731432314: Opening ipv4 listen socket on port 1883.
+1731432314: mosquitto version 2.0.20 running
+1731432342: mosquitto version 2.0.20 terminating
+1731432342: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731463396: mosquitto version 2.0.20 starting
+1731463396: Config loaded from /mosquitto/config/mosquitto.conf.
+1731463396: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731463396: Opening ipv4 listen socket on port 1883.
+1731463396: mosquitto version 2.0.20 running
+1731463881: mosquitto version 2.0.20 terminating
+1731463881: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731463947: mosquitto version 2.0.20 starting
+1731463947: Config loaded from /mosquitto/config/mosquitto.conf.
+1731463947: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731463947: Opening ipv4 listen socket on port 1883.
+1731463947: mosquitto version 2.0.20 running
+1731464922: mosquitto version 2.0.20 terminating
+1731464922: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731464941: mosquitto version 2.0.20 starting
+1731464941: Config loaded from /mosquitto/config/mosquitto.conf.
+1731464941: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731464941: Opening ipv4 listen socket on port 1883.
+1731464941: mosquitto version 2.0.20 running
+1731464982: mosquitto version 2.0.20 terminating
+1731464982: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731465250: mosquitto version 2.0.20 starting
+1731465250: Config loaded from /mosquitto/config/mosquitto.conf.
+1731465250: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731465250: Opening ipv4 listen socket on port 1883.
+1731465250: mosquitto version 2.0.20 running
+1731465253: New connection from 172.21.0.1:36722 on port 1883.
+1731465253: Client mqttx_3963ba17 disconnected, not authorised.
+1731465255: New connection from 172.21.0.1:51402 on port 1883.
+1731465255: Client mqttx_3963ba17 disconnected, not authorised.
+1731465269: New connection from 172.21.0.1:56682 on port 1883.
+1731465269: New client connected from 172.21.0.1:56682 as mqttx_3963ba17 (p5, c1, k60, u'Topdown').
+1731465278: Client mqttx_3963ba17 disconnected.
+1731467051: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731467916: New connection from 172.21.0.1:44638 on port 1883.
+1731467916: New client connected from 172.21.0.1:44638 as mqttx_3963ba17 (p5, c1, k60, u'Topdown').
+1731467923: Client mqttx_3963ba17 disconnected.
+1731468072: mosquitto version 2.0.20 terminating
+1731468072: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731468089: mosquitto version 2.0.20 starting
+1731468089: Config loaded from /mosquitto/config/mosquitto.conf.
+1731468089: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731468089: Opening ipv4 listen socket on port 1883.
+1731468089: mosquitto version 2.0.20 running
+1731468188: New connection from 172.21.0.1:51900 on port 1883.
+1731468188: New client connected from 172.21.0.1:51900 as PythonPublisher (p2, c1, k60, u'Topdown').
+1731468228: Client PythonPublisher disconnected.
+1731468278: New connection from 172.21.0.1:40908 on port 1883.
+1731468278: New client connected from 172.21.0.1:40908 as PythonPublisher (p2, c1, k60, u'Topdown').
+1731468314: New connection from 172.21.0.1:52364 on port 1883.
+1731468314: Client mqttx_9c74d9d8 disconnected, not authorised.
+1731468315: New connection from 172.21.0.1:52372 on port 1883.
+1731468315: Client mqttx_9c74d9d8 disconnected, not authorised.
+1731468325: New connection from 172.21.0.1:55564 on port 1883.
+1731468325: New client connected from 172.21.0.1:55564 as mqttx_9c74d9d8 (p5, c1, k60, u'Topdown').
+1731468351: Client mqttx_9c74d9d8 disconnected.
+1731469890: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731471691: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731472619: Client PythonPublisher closed its connection.
+1731480399: mosquitto version 2.0.20 starting
+1731480399: Config loaded from /mosquitto/config/mosquitto.conf.
+1731480399: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731480399: Opening ipv4 listen socket on port 1883.
+1731480399: mosquitto version 2.0.20 running
+1731482200: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731484001: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731485802: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731487603: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731489404: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731491205: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731492022: mosquitto version 2.0.20 starting
+1731492022: Config loaded from /mosquitto/config/mosquitto.conf.
+1731492022: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731492022: Opening ipv4 listen socket on port 1883.
+1731492022: mosquitto version 2.0.20 running
+1731492051: mosquitto version 2.0.20 terminating
+1731492051: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731553350: mosquitto version 2.0.20 starting
+1731553350: Config loaded from /mosquitto/config/mosquitto.conf.
+1731553350: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731553350: Opening ipv4 listen socket on port 1883.
+1731553350: mosquitto version 2.0.20 running
+1731553984: mosquitto version 2.0.20 terminating
+1731553984: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731554045: mosquitto version 2.0.20 starting
+1731554045: Config loaded from /mosquitto/config/mosquitto.conf.
+1731554045: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731554045: Opening ipv4 listen socket on port 1883.
+1731554045: mosquitto version 2.0.20 running
+1731554377: New connection from 172.23.0.1:35716 on port 1883.
+1731554377: New client connected from 172.23.0.1:35716 as mqttx_3963ba17 (p5, c1, k60, u'Topdown').
+1731554379: Client mqttx_3963ba17 disconnected.
+1731554383: New connection from 172.23.0.1:44648 on port 1883.
+1731554383: Client mqttx_3963ba17 disconnected, not authorised.
+1731555846: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731557647: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731559448: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731560647: mosquitto version 2.0.20 terminating
+1731560647: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731560665: mosquitto version 2.0.20 starting
+1731560665: Config loaded from /mosquitto/config/mosquitto.conf.
+1731560665: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731560665: Opening ipv4 listen socket on port 1883.
+1731560665: mosquitto version 2.0.20 running
+1731562466: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731562667: mosquitto version 2.0.20 terminating
+1731562667: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731568082: mosquitto version 2.0.20 starting
+1731568082: Config loaded from /mosquitto/config/mosquitto.conf.
+1731568082: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731568082: Opening ipv4 listen socket on port 1883.
+1731568082: mosquitto version 2.0.20 running
+1731568085: New connection from 172.23.0.1:50982 on port 1883.
+1731568085: New client connected from 172.23.0.1:50982 as mqttx_3963ba17 (p5, c1, k60, u'Topdown').
+1731568153: New connection from 172.23.0.1:41326 on port 1883.
+1731568153: New client connected from 172.23.0.1:41326 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731568221: Client mqttx_3963ba17 disconnected.
+1731568278: Client mqttx_a2f7a187 closed its connection.
+1731569883: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731570189: New connection from 172.23.0.1:41310 on port 1883.
+1731570189: New client connected from 172.23.0.1:41310 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731570199: New connection from 172.23.0.1:48454 on port 1883.
+1731570199: Client mqttx_a2f7a187 already connected, closing old connection.
+1731570199: New client connected from 172.23.0.1:48454 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731570204: New connection from 172.23.0.1:48458 on port 1883.
+1731570204: New client connected from 172.23.0.1:48458 as mqttx_3963ba17 (p5, c1, k60, u'Topdown').
+1731570204: New connection from 172.23.0.1:48462 on port 1883.
+1731570204: Client mqttx_a2f7a187 already connected, closing old connection.
+1731570204: New client connected from 172.23.0.1:48462 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731570210: New connection from 172.23.0.1:58186 on port 1883.
+1731570210: Client mqttx_a2f7a187 already connected, closing old connection.
+1731570210: New client connected from 172.23.0.1:58186 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731570215: Client mqttx_a2f7a187 closed its connection.
+1731570215: New connection from 172.23.0.1:48028 on port 1883.
+1731570215: New client connected from 172.23.0.1:48028 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731570219: New connection from 172.23.0.1:48040 on port 1883.
+1731570219: New client connected from 172.23.0.1:48040 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731570219: Client TGR2024_Bunyakorn disconnected.
+1731570228: New connection from 172.23.0.1:46658 on port 1883.
+1731570228: New client connected from 172.23.0.1:46658 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731570229: Client TGR2024_Bunyakorn disconnected.
+1731570299: Client mqttx_a2f7a187 closed its connection.
+1731570908: Client mqttx_3963ba17 has exceeded timeout, disconnecting.
+1731571684: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731573485: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731573604: New connection from 172.23.0.1:49284 on port 1883.
+1731573604: New client connected from 172.23.0.1:49284 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731573873: Client mqttx_a2f7a187 closed its connection.
+1731575286: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731577087: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731577769: New connection from 172.23.0.1:43186 on port 1883.
+1731577769: New client connected from 172.23.0.1:43186 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731577850: Client mqttx_a2f7a187 closed its connection.
+1731578888: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731580689: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731582490: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731584291: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731586092: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731587893: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731589694: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731591495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731593296: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731595097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731596898: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731598071: mosquitto version 2.0.20 terminating
+1731598071: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731598688: mosquitto version 2.0.20 starting
+1731598688: Config loaded from /mosquitto/config/mosquitto.conf.
+1731598688: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731598688: Opening ipv4 listen socket on port 1883.
+1731598688: mosquitto version 2.0.20 running
+1731598933: New connection from 172.23.0.1:38974 on port 1883.
+1731598933: New client connected from 172.23.0.1:38974 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731598934: New connection from 172.23.0.1:37570 on port 1883.
+1731598934: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731598934: New client connected from 172.23.0.1:37570 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731598952: New connection from 172.23.0.1:51992 on port 1883.
+1731598952: New client connected from 172.23.0.1:51992 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731598983: Client TGR2024_Bunyakorn closed its connection.
+1731599005: New connection from 172.23.0.1:39168 on port 1883.
+1731599007: New client connected from 172.23.0.1:39168 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731599012: New connection from 172.23.0.1:46134 on port 1883.
+1731599012: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731599012: New client connected from 172.23.0.1:46134 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731599714: Client TGR2024_Bunyakorn closed its connection.
+1731599736: New connection from 172.23.0.1:45918 on port 1883.
+1731599736: New client connected from 172.23.0.1:45918 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731599736: New connection from 172.23.0.1:45930 on port 1883.
+1731599736: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731599736: New client connected from 172.23.0.1:45930 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731599826: Client TGR2024_Bunyakorn closed its connection.
+1731599826: Client mqttx_a2f7a187 closed its connection.
+1731600364: New connection from 172.23.0.1:42480 on port 1883.
+1731600364: New client connected from 172.23.0.1:42480 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731600373: New connection from 172.23.0.1:59090 on port 1883.
+1731600373: New client connected from 172.23.0.1:59090 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731600374: New connection from 172.23.0.1:59094 on port 1883.
+1731600374: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731600374: New client connected from 172.23.0.1:59094 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731600441: Client TGR2024_Bunyakorn closed its connection.
+1731600464: Client mqttx_a2f7a187 closed its connection.
+1731600489: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731602290: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731605478: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731605645: New connection from 172.23.0.1:58616 on port 1883.
+1731605646: New client connected from 172.23.0.1:58616 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731605646: New connection from 172.23.0.1:58628 on port 1883.
+1731605647: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731605647: New client connected from 172.23.0.1:58628 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731605657: New connection from 172.23.0.1:59458 on port 1883.
+1731605657: New client connected from 172.23.0.1:59458 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731605686: Client TGR2024_Bunyakorn closed its connection.
+1731605695: New connection from 172.23.0.1:37376 on port 1883.
+1731605695: New client connected from 172.23.0.1:37376 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731605697: New connection from 172.23.0.1:37378 on port 1883.
+1731605697: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731605697: New client connected from 172.23.0.1:37378 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731605711: Client TGR2024_Bunyakorn closed its connection.
+1731605715: Client mqttx_a2f7a187 closed its connection.
+1731606752: New connection from 172.23.0.1:47622 on port 1883.
+1731606752: New client connected from 172.23.0.1:47622 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731606754: New connection from 172.23.0.1:47632 on port 1883.
+1731606754: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731606754: New client connected from 172.23.0.1:47632 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731606760: New connection from 172.23.0.1:56814 on port 1883.
+1731606760: New client connected from 172.23.0.1:56814 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731606769: Client TGR2024_Bunyakorn closed its connection.
+1731606784: Client mqttx_a2f7a187 closed its connection.
+1731607141: New connection from 172.23.0.1:42894 on port 1883.
+1731607141: New client connected from 172.23.0.1:42894 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607142: New connection from 172.23.0.1:42896 on port 1883.
+1731607142: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731607142: New client connected from 172.23.0.1:42896 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607147: New connection from 172.23.0.1:42898 on port 1883.
+1731607147: New client connected from 172.23.0.1:42898 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731607183: Client TGR2024_Bunyakorn closed its connection.
+1731607195: New connection from 172.23.0.1:35864 on port 1883.
+1731607196: New client connected from 172.23.0.1:35864 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607199: New connection from 172.23.0.1:35876 on port 1883.
+1731607199: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731607199: New client connected from 172.23.0.1:35876 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607216: Client TGR2024_Bunyakorn closed its connection.
+1731607234: New connection from 172.23.0.1:49720 on port 1883.
+1731607234: New client connected from 172.23.0.1:49720 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607236: New connection from 172.23.0.1:49726 on port 1883.
+1731607236: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731607236: New client connected from 172.23.0.1:49726 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607248: Client TGR2024_Bunyakorn closed its connection.
+1731607268: New connection from 172.23.0.1:45218 on port 1883.
+1731607268: New client connected from 172.23.0.1:45218 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607271: New connection from 172.23.0.1:45224 on port 1883.
+1731607271: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731607271: New client connected from 172.23.0.1:45224 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607279: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731607284: Client TGR2024_Bunyakorn closed its connection.
+1731607289: Client mqttx_a2f7a187 closed its connection.
+1731607508: New connection from 172.23.0.1:56112 on port 1883.
+1731607510: New client connected from 172.23.0.1:56112 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607512: New connection from 172.23.0.1:56308 on port 1883.
+1731607512: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731607512: New client connected from 172.23.0.1:56308 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731607520: New connection from 172.23.0.1:42466 on port 1883.
+1731607520: New client connected from 172.23.0.1:42466 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731607560: Client TGR2024_Bunyakorn closed its connection.
+1731607566: Client mqttx_a2f7a187 closed its connection.
+1731608603: New connection from 172.23.0.1:57078 on port 1883.
+1731608603: New client connected from 172.23.0.1:57078 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731608608: New connection from 172.23.0.1:44506 on port 1883.
+1731608608: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731608608: New client connected from 172.23.0.1:44506 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731608617: New connection from 172.23.0.1:52042 on port 1883.
+1731608617: New client connected from 172.23.0.1:52042 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731608633: Client TGR2024_Bunyakorn closed its connection.
+1731608656: New connection from 172.23.0.1:59398 on port 1883.
+1731608656: New client connected from 172.23.0.1:59398 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731608665: New connection from 172.23.0.1:36946 on port 1883.
+1731608666: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731608666: New client connected from 172.23.0.1:36946 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731608711: Client mqttx_a2f7a187 closed its connection.
+1731608724: New connection from 172.23.0.1:59366 on port 1883.
+1731608724: New client connected from 172.23.0.1:59366 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731608734: Client mqttx_a2f7a187 closed its connection.
+1731608744: New connection from 172.23.0.1:48382 on port 1883.
+1731608744: New client connected from 172.23.0.1:48382 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731608785: Client TGR2024_Bunyakorn closed its connection.
+1731608800: Client mqttx_a2f7a187 closed its connection.
+1731609080: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731609361: New connection from 172.23.0.1:45328 on port 1883.
+1731609361: New client connected from 172.23.0.1:45328 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731609363: New connection from 172.23.0.1:48782 on port 1883.
+1731609363: Client TGR2024_Bunyakorn already connected, closing old connection.
+1731609363: New client connected from 172.23.0.1:48782 as TGR2024_Bunyakorn (p2, c1, k20, u'Topdown').
+1731609363: New connection from 172.23.0.1:48796 on port 1883.
+1731609363: New client connected from 172.23.0.1:48796 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731609407: Client TGR2024_Bunyakorn closed its connection.
+1731609412: Client mqttx_a2f7a187 closed its connection.
+1731609972: New connection from 172.23.0.1:53152 on port 1883.
+1731609972: New client connected from 172.23.0.1:53152 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731609972: New connection from 172.23.0.1:53168 on port 1883.
+1731609972: New client connected from 172.23.0.1:53168 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731609973: New connection from 172.23.0.1:53174 on port 1883.
+1731609973: New client connected from 172.23.0.1:53174 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731609990: Client Topdown_Sub closed its connection.
+1731609990: Client Topdown_Pub closed its connection.
+1731610003: New connection from 172.23.0.1:40820 on port 1883.
+1731610003: New client connected from 172.23.0.1:40820 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731610004: New connection from 172.23.0.1:40822 on port 1883.
+1731610004: New client connected from 172.23.0.1:40822 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731610032: Client Topdown_Sub closed its connection.
+1731610032: Client Topdown_Pub closed its connection.
+1731610038: New connection from 172.23.0.1:47194 on port 1883.
+1731610038: New client connected from 172.23.0.1:47194 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731610039: New connection from 172.23.0.1:47210 on port 1883.
+1731610039: New client connected from 172.23.0.1:47210 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731610105: Client Topdown_Sub closed its connection.
+1731610105: Client Topdown_Pub closed its connection.
+1731610113: New connection from 172.23.0.1:58418 on port 1883.
+1731610113: New client connected from 172.23.0.1:58418 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731610117: New connection from 172.23.0.1:53010 on port 1883.
+1731610117: New client connected from 172.23.0.1:53010 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731610163: Client Topdown_Pub closed its connection.
+1731610163: Client Topdown_Sub closed its connection.
+1731610279: New connection from 172.23.0.1:59886 on port 1883.
+1731610279: New client connected from 172.23.0.1:59886 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731610281: New connection from 172.23.0.1:59888 on port 1883.
+1731610281: New client connected from 172.23.0.1:59888 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731610334: Client Topdown_Pub closed its connection.
+1731610334: Client Topdown_Sub closed its connection.
+1731610349: Client mqttx_a2f7a187 closed its connection.
+1731610881: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731612682: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731614483: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731614749: mosquitto version 2.0.20 terminating
+1731614749: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731614934: mosquitto version 2.0.20 starting
+1731614934: Config loaded from /mosquitto/config/mosquitto.conf.
+1731614934: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731614934: Opening ipv4 listen socket on port 1883.
+1731614934: Opening websockets listen socket on port 9001.
+1731614934: mosquitto version 2.0.20 running
+1731614934: Client react-client-1731614354810 closed its connection.
+1731614938: Client react-client-1731614354781 closed its connection.
+1731614940: Client react-client-1731614354810 closed its connection.
+1731614943: Client react-client-1731614354781 closed its connection.
+1731614946: Client react-client-1731614354810 closed its connection.
+1731614950: Client react-client-1731614354781 closed its connection.
+1731614953: Client react-client-1731614354810 closed its connection.
+1731614956: Client react-client-1731614354781 closed its connection.
+1731614959: Client react-client-1731614354810 closed its connection.
+1731614962: Client react-client-1731614354781 closed its connection.
+1731614964: Client react-client-1731614354810 closed its connection.
+1731614967: Client react-client-1731614354781 closed its connection.
+1731614970: Client react-client-1731614354810 closed its connection.
+1731614973: Client react-client-1731614354781 closed its connection.
+1731614976: Client react-client-1731614354810 closed its connection.
+1731614980: Client react-client-1731614354781 closed its connection.
+1731614983: New connection from 172.23.0.1:51784 on port 1883.
+1731614983: New client connected from 172.23.0.1:51784 as mqttx_3963ba17 (p5, c1, k60, u'Topdown').
+1731614983: Client react-client-1731614354810 closed its connection.
+1731614986: Client react-client-1731614354781 closed its connection.
+1731614989: Client react-client-1731614354810 closed its connection.
+1731614992: Client react-client-1731614354781 closed its connection.
+1731614995: Client react-client-1731614354810 closed its connection.
+1731614998: Client react-client-1731614354781 closed its connection.
+1731615001: Client react-client-1731614354810 closed its connection.
+1731615003: Client react-client-1731614354781 closed its connection.
+1731615006: Client react-client-1731614354810 closed its connection.
+1731615008: Client react-client-1731614354781 closed its connection.
+1731615011: Client react-client-1731614354810 closed its connection.
+1731615013: Client react-client-1731614354781 closed its connection.
+1731615016: Client react-client-1731614354810 closed its connection.
+1731615018: Client react-client-1731614354781 closed its connection.
+1731615021: Client react-client-1731614354810 closed its connection.
+1731615023: Client react-client-1731614354781 closed its connection.
+1731615027: Client react-client-1731614354810 closed its connection.
+1731615029: Client react-client-1731614354781 closed its connection.
+1731615032: Client react-client-1731614354810 closed its connection.
+1731615035: Client react-client-1731614354781 closed its connection.
+1731615037: Client react-client-1731614354810 closed its connection.
+1731615041: Client react-client-1731614354781 closed its connection.
+1731615042: Client react-client-1731614354810 closed its connection.
+1731615046: Client react-client-1731614354781 closed its connection.
+1731615048: Client react-client-1731614354810 closed its connection.
+1731615052: Client react-client-1731614354781 closed its connection.
+1731615054: Client react-client-1731614354810 closed its connection.
+1731615058: Client react-client-1731614354781 closed its connection.
+1731615060: Client react-client-1731614354810 closed its connection.
+1731615064: Client react-client-1731614354781 closed its connection.
+1731615066: Client react-client-1731614354810 closed its connection.
+1731615070: Client react-client-1731614354781 closed its connection.
+1731615072: Client react-client-1731614354810 closed its connection.
+1731615077: Client react-client-1731614354781 closed its connection.
+1731615079: Client react-client-1731614354810 closed its connection.
+1731615083: Client react-client-1731614354781 closed its connection.
+1731615085: Client react-client-1731614354810 closed its connection.
+1731615089: Client react-client-1731614354781 closed its connection.
+1731615091: Client react-client-1731614354810 closed its connection.
+1731615095: Client react-client-1731614354781 closed its connection.
+1731615097: Client react-client-1731614354810 closed its connection.
+1731615101: Client react-client-1731614354781 closed its connection.
+1731615103: Client react-client-1731614354810 closed its connection.
+1731615106: Client react-client-1731614354781 closed its connection.
+1731615108: Client react-client-1731614354810 closed its connection.
+1731615112: Client react-client-1731614354781 closed its connection.
+1731615114: Client react-client-1731614354810 closed its connection.
+1731615118: Client react-client-1731614354781 closed its connection.
+1731615120: Client react-client-1731614354810 closed its connection.
+1731615124: Client react-client-1731614354781 closed its connection.
+1731615125: Client react-client-1731614354810 closed its connection.
+1731615129: New client connected from ::ffff:172.23.0.1:44624 as react-client-1731615129340 (p2, c1, k60, u'Topdown').
+1731615129: New client connected from ::ffff:172.23.0.1:44626 as react-client-1731615129367 (p2, c1, k60, u'Topdown').
+1731615212: Client react-client-1731615129340 closed its connection.
+1731615212: Client react-client-1731615129367 closed its connection.
+1731615301: New client connected from ::ffff:172.23.0.1:51308 as mqttjs_af31bc6d (p2, c1, k60, u'Topdown').
+1731615307: Client mqttjs_af31bc6d closed its connection.
+1731615307: New client connected from ::ffff:172.23.0.1:41990 as mqttjs_60cd432a (p2, c1, k60, u'Topdown').
+1731615308: New client connected from ::ffff:172.23.0.1:41994 as mqttjs_c74b41ee (p2, c1, k60, u'Topdown').
+1731615320: Client mqttjs_60cd432a closed its connection.
+1731615320: Client mqttjs_c74b41ee closed its connection.
+1731615320: New client connected from ::ffff:172.23.0.1:47222 as mqttjs_0bd6ae13 (p2, c1, k60, u'Topdown').
+1731615320: New client connected from ::ffff:172.23.0.1:47236 as mqttjs_0c6b7c47 (p2, c1, k60, u'Topdown').
+1731615414: Client mqttjs_0bd6ae13 closed its connection.
+1731615431: Client mqttjs_0c6b7c47 disconnected.
+1731615431: New client connected from ::ffff:172.23.0.1:53138 as mqttjs_e4a546e6 (p2, c1, k60, u'Topdown').
+1731615507: Client react-client-1731615506930 closed its connection.
+1731615507: Client react-client-1731615506956 closed its connection.
+1731615512: Client react-client-1731615506930 closed its connection.
+1731615512: Client react-client-1731615506956 closed its connection.
+1731615517: Client react-client-1731615506930 closed its connection.
+1731615517: Client react-client-1731615506956 closed its connection.
+1731615522: Client react-client-1731615506930 closed its connection.
+1731615522: Client react-client-1731615506956 closed its connection.
+1731615527: Client react-client-1731615506930 closed its connection.
+1731615527: Client react-client-1731615506956 closed its connection.
+1731615533: Client react-client-1731615506930 closed its connection.
+1731615534: Client react-client-1731615506956 closed its connection.
+1731615539: Client react-client-1731615506930 closed its connection.
+1731615540: Client react-client-1731615506956 closed its connection.
+1731615544: Client react-client-1731615506930 closed its connection.
+1731615544: Client react-client-1731615506956 closed its connection.
+1731615549: Client react-client-1731615506930 closed its connection.
+1731615550: Client react-client-1731615506956 closed its connection.
+1731615555: Client react-client-1731615506930 closed its connection.
+1731615556: Client react-client-1731615506956 closed its connection.
+1731615562: Client react-client-1731615506930 closed its connection.
+1731615563: Client react-client-1731615506956 closed its connection.
+1731615568: Client react-client-1731615506930 closed its connection.
+1731615569: Client react-client-1731615506956 closed its connection.
+1731615574: Client react-client-1731615506930 closed its connection.
+1731615575: Client react-client-1731615506956 closed its connection.
+1731615579: Client react-client-1731615506930 closed its connection.
+1731615580: Client react-client-1731615506956 closed its connection.
+1731615585: Client react-client-1731615506930 closed its connection.
+1731615586: Client react-client-1731615506956 closed its connection.
+1731615590: Client react-client-1731615506930 closed its connection.
+1731615592: Client react-client-1731615506956 closed its connection.
+1731615595: Client react-client-1731615506930 closed its connection.
+1731615596: Client react-client-1731615506956 closed its connection.
+1731615600: Client react-client-1731615506930 closed its connection.
+1731615601: Client react-client-1731615506956 closed its connection.
+1731615606: Client react-client-1731615506930 closed its connection.
+1731615607: Client react-client-1731615506956 closed its connection.
+1731615611: Client react-client-1731615506930 closed its connection.
+1731615612: Client react-client-1731615506956 closed its connection.
+1731615616: Client react-client-1731615506930 closed its connection.
+1731615617: Client react-client-1731615506956 closed its connection.
+1731615625: Client react-client-1731615506930 closed its connection.
+1731615626: Client react-client-1731615506956 closed its connection.
+1731615631: Client react-client-1731615506930 closed its connection.
+1731615632: Client react-client-1731615506956 closed its connection.
+1731615636: Client react-client-1731615506930 closed its connection.
+1731615637: Client react-client-1731615506956 closed its connection.
+1731615641: Client react-client-1731615506930 closed its connection.
+1731615642: Client react-client-1731615506956 closed its connection.
+1731615646: Client react-client-1731615506930 closed its connection.
+1731615647: Client react-client-1731615506956 closed its connection.
+1731615650: Client react-client-1731615506930 closed its connection.
+1731615653: Client react-client-1731615506956 closed its connection.
+1731615657: Client react-client-1731615506930 closed its connection.
+1731615660: Client react-client-1731615506956 closed its connection.
+1731615663: Client react-client-1731615506930 closed its connection.
+1731615666: Client react-client-1731615506956 closed its connection.
+1731615669: Client react-client-1731615506930 closed its connection.
+1731615671: Client react-client-1731615506956 closed its connection.
+1731615674: Client react-client-1731615506930 closed its connection.
+1731615676: Client react-client-1731615506956 closed its connection.
+1731615679: Client react-client-1731615506930 closed its connection.
+1731615682: Client react-client-1731615506956 closed its connection.
+1731615685: Client react-client-1731615506930 closed its connection.
+1731615689: Client react-client-1731615506956 closed its connection.
+1731615692: Client react-client-1731615506930 closed its connection.
+1731615695: Client react-client-1731615506956 closed its connection.
+1731615698: Client react-client-1731615506930 closed its connection.
+1731615701: Client react-client-1731615506956 closed its connection.
+1731615703: Client react-client-1731615506930 closed its connection.
+1731615706: Client react-client-1731615506956 closed its connection.
+1731615709: Client react-client-1731615506930 closed its connection.
+1731615712: Client react-client-1731615506956 closed its connection.
+1731615715: Client react-client-1731615506930 closed its connection.
+1731615719: Client react-client-1731615506956 closed its connection.
+1731615722: Client react-client-1731615506930 closed its connection.
+1731615725: Client react-client-1731615506956 closed its connection.
+1731615728: Client react-client-1731615506930 closed its connection.
+1731615731: Client react-client-1731615506956 closed its connection.
+1731615734: Client react-client-1731615506930 closed its connection.
+1731615736: Client react-client-1731615506956 closed its connection.
+1731615739: Client react-client-1731615506930 closed its connection.
+1731615742: Client react-client-1731615506956 closed its connection.
+1731615745: Client react-client-1731615506930 closed its connection.
+1731615748: Client react-client-1731615506956 closed its connection.
+1731615752: Client react-client-1731615506930 closed its connection.
+1731615755: Client react-client-1731615506956 closed its connection.
+1731615758: Client react-client-1731615506930 closed its connection.
+1731615761: Client react-client-1731615506956 closed its connection.
+1731615764: Client react-client-1731615506930 closed its connection.
+1731615766: Client react-client-1731615506956 closed its connection.
+1731615769: Client react-client-1731615506930 closed its connection.
+1731615772: Client react-client-1731615506956 closed its connection.
+1731615775: Client react-client-1731615506930 closed its connection.
+1731615778: Client react-client-1731615506956 closed its connection.
+1731615781: Client react-client-1731615506930 closed its connection.
+1731615784: Client react-client-1731615506956 closed its connection.
+1731615787: Client react-client-1731615506930 closed its connection.
+1731615790: Client react-client-1731615506956 closed its connection.
+1731615793: Client react-client-1731615506930 closed its connection.
+1731615797: Client react-client-1731615506956 closed its connection.
+1731615800: Client react-client-1731615506930 closed its connection.
+1731615803: Client react-client-1731615506956 closed its connection.
+1731615806: Client react-client-1731615506930 closed its connection.
+1731615809: Client react-client-1731615506956 closed its connection.
+1731615812: Client react-client-1731615506930 closed its connection.
+1731615815: Client react-client-1731615506956 closed its connection.
+1731615818: Client react-client-1731615506930 closed its connection.
+1731615821: Client react-client-1731615506956 closed its connection.
+1731615824: Client react-client-1731615506930 closed its connection.
+1731615827: Client react-client-1731615506956 closed its connection.
+1731615829: Client react-client-1731615506930 closed its connection.
+1731615832: Client react-client-1731615506956 closed its connection.
+1731615835: Client react-client-1731615506930 closed its connection.
+1731615838: Client react-client-1731615506956 closed its connection.
+1731615841: Client react-client-1731615506930 closed its connection.
+1731615845: Client react-client-1731615506956 closed its connection.
+1731615848: Client react-client-1731615506930 closed its connection.
+1731615851: Client react-client-1731615506956 closed its connection.
+1731615854: Client react-client-1731615506930 closed its connection.
+1731615857: Client react-client-1731615506956 closed its connection.
+1731615860: Client react-client-1731615506930 closed its connection.
+1731615862: Client react-client-1731615506956 closed its connection.
+1731615865: Client react-client-1731615506930 closed its connection.
+1731615868: Client react-client-1731615506956 closed its connection.
+1731615871: Client react-client-1731615506930 closed its connection.
+1731615874: Client react-client-1731615506956 closed its connection.
+1731615878: Client react-client-1731615506930 closed its connection.
+1731615881: Client react-client-1731615506956 closed its connection.
+1731615884: Client react-client-1731615506930 closed its connection.
+1731615884: New client connected from ::ffff:172.23.0.1:53508 as mqttjs_91b0e73c (p2, c1, k60, u'Topdown').
+1731615884: New client connected from ::ffff:172.23.0.1:53524 as mqttjs_2d1b89b3 (p2, c1, k60, u'Topdown').
+1731615887: Client react-client-1731615506956 closed its connection.
+1731615890: Client react-client-1731615506930 closed its connection.
+1731615891: Client mqttx_3963ba17 disconnected.
+1731615892: Client react-client-1731615506956 closed its connection.
+1731615895: New connection from 172.23.0.1:40074 on port 1883.
+1731615895: New client connected from 172.23.0.1:40074 as mqttx_3963ba17 (p5, c1, k60, u'Topdown').
+1731615895: Client react-client-1731615506930 closed its connection.
+1731615898: Client react-client-1731615506956 closed its connection.
+1731615901: Client react-client-1731615506930 closed its connection.
+1731615904: Client react-client-1731615506956 closed its connection.
+1731615907: Client react-client-1731615506930 closed its connection.
+1731615910: Client react-client-1731615506956 closed its connection.
+1731615913: Client react-client-1731615506930 closed its connection.
+1731615916: Client react-client-1731615506956 closed its connection.
+1731615919: Client react-client-1731615506930 closed its connection.
+1731615922: Client react-client-1731615506956 closed its connection.
+1731615925: Client react-client-1731615506930 closed its connection.
+1731615927: Client react-client-1731615506956 closed its connection.
+1731615930: Client react-client-1731615506930 closed its connection.
+1731615933: Client react-client-1731615506956 closed its connection.
+1731615936: Client react-client-1731615506930 closed its connection.
+1731615940: Client react-client-1731615506956 closed its connection.
+1731615943: Client react-client-1731615506930 closed its connection.
+1731615946: Client react-client-1731615506956 closed its connection.
+1731615950: Client react-client-1731615506930 closed its connection.
+1731615953: Client react-client-1731615506956 closed its connection.
+1731615956: Client react-client-1731615506930 closed its connection.
+1731615959: Client react-client-1731615506956 closed its connection.
+1731615962: Client react-client-1731615506930 closed its connection.
+1731615965: Client react-client-1731615506956 closed its connection.
+1731615967: Client react-client-1731615506930 closed its connection.
+1731615968: Client mqttjs_2d1b89b3 disconnected.
+1731615968: New client connected from ::ffff:172.23.0.1:45712 as mqttjs_9654c920 (p2, c1, k60, u'Topdown').
+1731615971: Client react-client-1731615506956 closed its connection.
+1731615974: Client react-client-1731615506930 closed its connection.
+1731615977: Client react-client-1731615506956 closed its connection.
+1731615978: Client mqttjs_91b0e73c closed its connection.
+1731615980: Client react-client-1731615506930 closed its connection.
+1731615983: Client react-client-1731615506956 closed its connection.
+1731615986: Client react-client-1731615506930 closed its connection.
+1731615988: Client react-client-1731615506956 closed its connection.
+1731615991: Client react-client-1731615506930 closed its connection.
+1731615994: Client react-client-1731615506956 closed its connection.
+1731615997: Client react-client-1731615506930 closed its connection.
+1731616000: Client react-client-1731615506956 closed its connection.
+1731616003: Client react-client-1731615506930 closed its connection.
+1731616004: Client mqttjs_9654c920 closed its connection.
+1731616005: New client connected from ::ffff:172.23.0.1:53810 as mqttjs_f656e3c1 (p2, c1, k60, u'Topdown').
+1731616005: New client connected from ::ffff:172.23.0.1:53826 as mqttjs_256af006 (p2, c1, k60, u'Topdown').
+1731616006: Client react-client-1731615506956 closed its connection.
+1731616009: Client react-client-1731615506930 closed its connection.
+1731616012: Client react-client-1731615506956 closed its connection.
+1731616015: Client react-client-1731615506930 closed its connection.
+1731616019: Client react-client-1731615506956 closed its connection.
+1731616022: Client react-client-1731615506930 closed its connection.
+1731616025: Client react-client-1731615506956 closed its connection.
+1731616028: Client react-client-1731615506930 closed its connection.
+1731616031: Client react-client-1731615506956 closed its connection.
+1731616034: Client react-client-1731615506930 closed its connection.
+1731616037: Client react-client-1731615506956 closed its connection.
+1731616040: Client react-client-1731615506930 closed its connection.
+1731616043: Client react-client-1731615506956 closed its connection.
+1731616046: Client react-client-1731615506930 closed its connection.
+1731616049: Client react-client-1731615506956 closed its connection.
+1731616051: Client react-client-1731615506930 closed its connection.
+1731616054: Client react-client-1731615506956 closed its connection.
+1731616057: Client react-client-1731615506930 closed its connection.
+1731616060: Client react-client-1731615506956 closed its connection.
+1731616064: Client react-client-1731615506930 closed its connection.
+1731616067: Client react-client-1731615506956 closed its connection.
+1731616070: Client react-client-1731615506930 closed its connection.
+1731616073: Client react-client-1731615506956 closed its connection.
+1731616076: Client react-client-1731615506930 closed its connection.
+1731616079: Client react-client-1731615506956 closed its connection.
+1731616081: Client react-client-1731615506930 closed its connection.
+1731616084: Client react-client-1731615506956 closed its connection.
+1731616087: Client react-client-1731615506930 closed its connection.
+1731616090: Client react-client-1731615506956 closed its connection.
+1731616093: Client react-client-1731615506930 closed its connection.
+1731616097: Client react-client-1731615506956 closed its connection.
+1731616098: Client mqttjs_f656e3c1 closed its connection.
+1731616100: Client react-client-1731615506930 closed its connection.
+1731616101: New client connected from ::ffff:172.23.0.1:47944 as mqttjs_cd769ada (p2, c1, k60, u'Topdown').
+1731616101: New client connected from ::ffff:172.23.0.1:47952 as mqttjs_53480fb5 (p2, c1, k60, u'Topdown').
+1731616129: Client mqttjs_cd769ada closed its connection.
+1731616129: Client mqttjs_53480fb5 closed its connection.
+1731616129: New client connected from ::ffff:172.23.0.1:48180 as mqttjs_ebd64779 (p2, c1, k60, u'Topdown').
+1731616129: New client connected from ::ffff:172.23.0.1:48184 as mqttjs_6d849cfa (p2, c1, k60, u'Topdown').
+1731616225: Client mqttjs_ebd64779 closed its connection.
+1731616318: Client react-client-1731616318174 closed its connection.
+1731616318: Client react-client-1731616318176 closed its connection.
+1731616319: Client react-client-1731616318176 closed its connection.
+1731616320: Client react-client-1731616318174 closed its connection.
+1731616321: Client react-client-1731616318176 closed its connection.
+1731616321: Client react-client-1731616318174 closed its connection.
+1731616323: Client react-client-1731616318176 closed its connection.
+1731616323: Client react-client-1731616318174 closed its connection.
+1731616325: Client react-client-1731616318174 closed its connection.
+1731616325: Client react-client-1731616318176 closed its connection.
+1731616328: Client react-client-1731616318176 closed its connection.
+1731616328: Client react-client-1731616318174 closed its connection.
+1731616330: Client mqttjs_6d849cfa closed its connection.
+1731616330: Client <unknown> closed its connection.
+1731616330: Client mqttjs_256af006 closed its connection.
+1731616330: Client <unknown> closed its connection.
+1731616457: Client mqttjs_e4a546e6 closed its connection.
+1731616457: New client connected from ::ffff:172.23.0.1:49776 as mqttjs_20eff0e8 (p2, c1, k60, u'Topdown').
+1731616457: New client connected from ::ffff:172.23.0.1:49790 as mqttjs_357f81fa (p2, c1, k60, u'Topdown').
+1731616549: Client mqttjs_20eff0e8 closed its connection.
+1731616647: New connection from 172.23.0.1:52482 on port 1883.
+1731616648: New client connected from 172.23.0.1:52482 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731616648: New connection from 172.23.0.1:52498 on port 1883.
+1731616648: New client connected from 172.23.0.1:52498 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731616652: Client Topdown_Pub closed its connection.
+1731616652: Client Topdown_Sub closed its connection.
+1731616656: New connection from 172.23.0.1:38580 on port 1883.
+1731616656: New client connected from 172.23.0.1:38580 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731616656: New connection from 172.23.0.1:38596 on port 1883.
+1731616656: New client connected from 172.23.0.1:38596 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731616664: Client Topdown_Sub closed its connection.
+1731616664: Client Topdown_Pub closed its connection.
+1731616681: New connection from 172.23.0.1:52966 on port 1883.
+1731616681: New client connected from 172.23.0.1:52966 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731616687: New connection from 172.23.0.1:35472 on port 1883.
+1731616687: New client connected from 172.23.0.1:35472 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731616687: New connection from 172.23.0.1:35474 on port 1883.
+1731616687: New client connected from 172.23.0.1:35474 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731616689: Client Topdown_Pub closed its connection.
+1731616689: Client Topdown_Sub closed its connection.
+1731616735: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731616867: Client mqttx_3963ba17 has exceeded timeout, disconnecting.
+1731616914: New connection from 172.23.0.1:47500 on port 1883.
+1731616914: New client connected from 172.23.0.1:47500 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731616914: New connection from 172.23.0.1:47508 on port 1883.
+1731616914: New client connected from 172.23.0.1:47508 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731616927: Client Topdown_Pub closed its connection.
+1731616927: Client Topdown_Sub closed its connection.
+1731616970: Client mqttx_a2f7a187 closed its connection.
+1731617322: Client mqttjs_357f81fa closed its connection.
+1731638116: mosquitto version 2.0.20 starting
+1731638116: Config loaded from /mosquitto/config/mosquitto.conf.
+1731638116: Warning: File /mosquitto/config/passwords.txt has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
+1731638116: Opening ipv4 listen socket on port 1883.
+1731638116: Opening websockets listen socket on port 9001.
+1731638116: mosquitto version 2.0.20 running
+1731639509: New connection from 172.23.0.1:40738 on port 1883.
+1731639509: New client connected from 172.23.0.1:40738 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731639636: Client mqttx_a2f7a187 closed its connection.
+1731639917: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731640568: New connection from 172.23.0.1:50636 on port 1883.
+1731640568: New client connected from 172.23.0.1:50636 as Topdown_Sub (p1, c1, k20, u'Topdown').
+1731640568: New connection from 172.23.0.1:50644 on port 1883.
+1731640568: New client connected from 172.23.0.1:50644 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731640595: New connection from 172.23.0.1:54778 on port 1883.
+1731640595: New client connected from 172.23.0.1:54778 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731640614: Client Topdown_Pub closed its connection.
+1731640614: Client Topdown_Sub closed its connection.
+1731640676: New connection from 172.23.0.1:46080 on port 1883.
+1731640676: New client connected from 172.23.0.1:46080 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731640677: New connection from 172.23.0.1:42254 on port 1883.
+1731640677: New client connected from 172.23.0.1:42254 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731640680: Client Topdown_Sub closed its connection.
+1731640680: Client Topdown_Pub closed its connection.
+1731640767: New connection from 172.23.0.1:60974 on port 1883.
+1731640767: New client connected from 172.23.0.1:60974 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731640768: New connection from 172.23.0.1:60990 on port 1883.
+1731640768: New client connected from 172.23.0.1:60990 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731640780: Client Topdown_Pub closed its connection.
+1731640780: Client Topdown_Sub closed its connection.
+1731640863: New connection from 172.23.0.1:44518 on port 1883.
+1731640864: New client connected from 172.23.0.1:44518 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731640864: New connection from 172.23.0.1:44524 on port 1883.
+1731640864: New client connected from 172.23.0.1:44524 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731640868: Client Topdown_Pub closed its connection.
+1731640868: Client Topdown_Sub closed its connection.
+1731641028: New connection from 172.23.0.1:44876 on port 1883.
+1731641028: New client connected from 172.23.0.1:44876 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731641028: New connection from 172.23.0.1:44890 on port 1883.
+1731641029: New client connected from 172.23.0.1:44890 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731641098: Client Topdown_Sub closed its connection.
+1731641098: Client Topdown_Pub closed its connection.
+1731641135: New connection from 172.23.0.1:38066 on port 1883.
+1731641136: New client connected from 172.23.0.1:38066 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731641137: New connection from 172.23.0.1:38078 on port 1883.
+1731641137: New client connected from 172.23.0.1:38078 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731641159: Client Topdown_Pub closed its connection.
+1731641159: Client Topdown_Sub closed its connection.
+1731641454: New connection from 172.23.0.1:45478 on port 1883.
+1731641454: New client connected from 172.23.0.1:45478 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731641455: New connection from 172.23.0.1:45492 on port 1883.
+1731641455: New client connected from 172.23.0.1:45492 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731641463: Client Topdown_Pub closed its connection.
+1731641463: Client Topdown_Sub closed its connection.
+1731641574: New connection from 172.23.0.1:52540 on port 1883.
+1731641574: New client connected from 172.23.0.1:52540 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731641574: New connection from 172.23.0.1:52554 on port 1883.
+1731641574: New client connected from 172.23.0.1:52554 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731641579: Client Topdown_Pub closed its connection.
+1731641579: Client Topdown_Sub closed its connection.
+1731641718: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731641762: New connection from 172.23.0.1:47476 on port 1883.
+1731641762: New client connected from 172.23.0.1:47476 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731641763: New connection from 172.23.0.1:47482 on port 1883.
+1731641763: New client connected from 172.23.0.1:47482 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731641794: Client Topdown_Pub closed its connection.
+1731641794: Client Topdown_Sub closed its connection.
+1731641855: New connection from 172.23.0.1:50010 on port 1883.
+1731641856: New client connected from 172.23.0.1:50010 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731641856: New connection from 172.23.0.1:50026 on port 1883.
+1731641857: New client connected from 172.23.0.1:50026 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731641862: Client Topdown_Pub closed its connection.
+1731641862: Client Topdown_Sub closed its connection.
+1731642082: New connection from 172.23.0.1:53312 on port 1883.
+1731642082: New client connected from 172.23.0.1:53312 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731642082: New connection from 172.23.0.1:53316 on port 1883.
+1731642082: New client connected from 172.23.0.1:53316 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731642100: Client mqttx_a2f7a187 closed its connection.
+1731642100: Client Topdown_Pub closed its connection.
+1731642100: Client Topdown_Sub closed its connection.
+1731643519: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731643799: New connection from 172.23.0.1:50100 on port 1883.
+1731643799: New client connected from 172.23.0.1:50100 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731644107: Client mqttx_a2f7a187 closed its connection.
+1731644392: New connection from 172.23.0.1:57446 on port 1883.
+1731644393: New client connected from 172.23.0.1:57446 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731644393: New connection from 172.23.0.1:57462 on port 1883.
+1731644393: New client connected from 172.23.0.1:57462 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731644405: Client Topdown_Pub closed its connection.
+1731644405: Client Topdown_Sub closed its connection.
+1731644419: New connection from 172.23.0.1:35202 on port 1883.
+1731644419: New client connected from 172.23.0.1:35202 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731644420: New connection from 172.23.0.1:35208 on port 1883.
+1731644420: New client connected from 172.23.0.1:35208 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731644426: New connection from 172.23.0.1:39284 on port 1883.
+1731644426: New client connected from 172.23.0.1:39284 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731644451: Client Topdown_Sub closed its connection.
+1731644451: Client Topdown_Pub closed its connection.
+1731644532: New connection from 172.23.0.1:42494 on port 1883.
+1731644532: New client connected from 172.23.0.1:42494 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731644533: New connection from 172.23.0.1:42496 on port 1883.
+1731644533: New client connected from 172.23.0.1:42496 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731644546: Client Topdown_Pub closed its connection.
+1731644546: Client Topdown_Sub closed its connection.
+1731644559: New connection from 172.23.0.1:38556 on port 1883.
+1731644559: New client connected from 172.23.0.1:38556 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731644559: New connection from 172.23.0.1:38558 on port 1883.
+1731644560: New client connected from 172.23.0.1:38558 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731644599: Client Topdown_Sub closed its connection.
+1731644599: Client Topdown_Pub closed its connection.
+1731644617: New connection from 172.23.0.1:43740 on port 1883.
+1731644617: New client connected from 172.23.0.1:43740 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731644617: New connection from 172.23.0.1:43752 on port 1883.
+1731644617: New client connected from 172.23.0.1:43752 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731644649: Client Topdown_Pub closed its connection.
+1731644650: Client Topdown_Sub has exceeded timeout, disconnecting.
+1731644741: Client mqttx_a2f7a187 closed its connection.
+1731645074: New connection from 172.23.0.1:33878 on port 1883.
+1731645074: New client connected from 172.23.0.1:33878 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731645074: New connection from 172.23.0.1:33890 on port 1883.
+1731645074: New client connected from 172.23.0.1:33890 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731645093: Client Topdown_Pub closed its connection.
+1731645093: Client Topdown_Sub closed its connection.
+1731645098: New connection from 172.23.0.1:52048 on port 1883.
+1731645098: New client connected from 172.23.0.1:52048 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731645100: New connection from 172.23.0.1:52054 on port 1883.
+1731645100: New client connected from 172.23.0.1:52054 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731645107: Client Topdown_Sub closed its connection.
+1731645107: Client Topdown_Pub closed its connection.
+1731645110: New connection from 172.23.0.1:44282 on port 1883.
+1731645110: New client connected from 172.23.0.1:44282 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731645111: New connection from 172.23.0.1:44296 on port 1883.
+1731645111: New client connected from 172.23.0.1:44296 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731645143: Client Topdown_Sub closed its connection.
+1731645143: Client Topdown_Pub closed its connection.
+1731645158: New connection from 172.23.0.1:58372 on port 1883.
+1731645158: New client connected from 172.23.0.1:58372 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731645159: New connection from 172.23.0.1:34096 on port 1883.
+1731645159: New client connected from 172.23.0.1:34096 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731645195: New connection from 172.23.0.1:40914 on port 1883.
+1731645195: New client connected from 172.23.0.1:40914 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731645262: Client Topdown_Pub closed its connection.
+1731645262: Client mqttx_a2f7a187 closed its connection.
+1731645262: Client Topdown_Sub closed its connection.
+1731645320: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731645841: New connection from 172.23.0.1:51150 on port 1883.
+1731645841: New client connected from 172.23.0.1:51150 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731645842: New connection from 172.23.0.1:51156 on port 1883.
+1731645842: New client connected from 172.23.0.1:51156 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731645870: Client Topdown_Sub closed its connection.
+1731645870: Client Topdown_Pub closed its connection.
+1731645966: New client connected from ::ffff:172.23.0.1:40292 as mqttjs_004856c7 (p2, c1, k60, u'Topdown').
+1731645966: New client connected from ::ffff:172.23.0.1:40300 as mqttjs_4f60e454 (p2, c1, k60, u'Topdown').
+1731646060: Client mqttjs_004856c7 closed its connection.
+1731646231: Client mqttjs_4f60e454 closed its connection.
