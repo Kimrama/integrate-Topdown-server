@@ -114,9 +114,7 @@ function App() {
                         </div>
                     </div>
                 </div>
-                <div>
-                    <ReadSound />
-                </div>
+                <div>{/* <ReadSound /> */}</div>
             </div>
             {isConnected && (
                 <>

@@ -45,15 +45,27 @@ def add_item():
 
 
 
+@app.route('/files', methods=['DELETE'])
+def delete_all_files():
+    try:
+        files = fs.find()
 
+        if not files.count():
+            return jsonify({"message": "No files to delete"}), 404
+
+        for file in files:
+            fs.delete(file._id)
+
+        return jsonify({"message": "All files have been deleted"}), 200
+
+    except Exception as e:
+        return jsonify({"message": f"An error occurred: {str(e)}"}), 500
     
 @app.route('/files', methods=['GET'])
 def list_files():
-    api_key = request.headers.get('APIKEY');
     try:
         files = fs.find()
         file_names = [file.filename for file in files]
-        print("".format(file_names))
 
         if not file_names:
             return jsonify({"message": "No files found"}), 404

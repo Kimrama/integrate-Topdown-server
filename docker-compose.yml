@@ -11,7 +11,7 @@ services:
         volumes:
             - ./server-API:/app
         networks:
-            - mqtt_network
+            - integration-network
 
     mqtt-broker:
         image: eclipse-mosquitto
@@ -24,7 +24,7 @@ services:
             - ./mosquitto/mosquitto_data:/mosquitto/data
             - ./mosquitto/mosquitto_log:/mosquitto/log
         networks:
-            - mqtt_network
+            - integration-network
 
     file-server:
         build: .
@@ -34,7 +34,7 @@ services:
             - ./downloads:/app/downloads
         container_name: file-server
         networks:
-            - mqtt_network
+            - integration-network
 
     mongoDB:
         image: mongo:latest
@@ -44,7 +44,7 @@ services:
         volumes:
             - ./mongoDB:/data/db
         networks:
-            - mqtt_network
+            - integration-network
 
     websocket-watcher:
         build:
@@ -60,9 +60,8 @@ services:
         ports:
             - "8001:8001"
         networks:
-            - mqtt_network
+            - integration-network
         restart: always
-
-networks:
-    mqtt_network:
-        driver: bridge
+# networks:
+#     integration-network:
+#         driver: bridge

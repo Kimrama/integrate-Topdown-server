@@ -887,3 +887,215 @@ To fix this, use `chmod 0700 /mosquitto/config/passwords.txt`.
 1731645966: New client connected from ::ffff:172.23.0.1:40300 as mqttjs_4f60e454 (p2, c1, k60, u'Topdown').
 1731646060: Client mqttjs_004856c7 closed its connection.
 1731646231: Client mqttjs_4f60e454 closed its connection.
+1731646848: New connection from 172.23.0.1:54352 on port 1883.
+1731646848: New client connected from 172.23.0.1:54352 as Topdown_Pub (p1, c1, k20, u'Topdown').
+1731646849: New connection from 172.23.0.1:54364 on port 1883.
+1731646850: New client connected from 172.23.0.1:54364 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731646859: New connection from 172.23.0.1:36330 on port 1883.
+1731646859: New client connected from 172.23.0.1:36330 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731646963: Client Topdown_Pub closed its connection.
+1731646963: Client Topdown_Sub closed its connection.
+1731647026: New connection from 172.23.0.1:35544 on port 1883.
+1731647027: New client connected from 172.23.0.1:35544 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731647027: New connection from 172.23.0.1:35548 on port 1883.
+1731647028: New client connected from 172.23.0.1:35548 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731647121: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731647231: Client Topdown_Pub closed its connection.
+1731647231: Client Topdown_Sub closed its connection.
+1731647238: New connection from 172.23.0.1:39554 on port 1883.
+1731647238: New client connected from 172.23.0.1:39554 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731647238: New connection from 172.23.0.1:39564 on port 1883.
+1731647238: New client connected from 172.23.0.1:39564 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731647274: Client Topdown_Pub closed its connection.
+1731647274: Client Topdown_Sub closed its connection.
+1731647284: New connection from 172.23.0.1:42124 on port 1883.
+1731647284: New client connected from 172.23.0.1:42124 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731647284: New connection from 172.23.0.1:42132 on port 1883.
+1731647284: New client connected from 172.23.0.1:42132 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731647362: Client Topdown_Pub closed its connection.
+1731647362: Client Topdown_Sub closed its connection.
+1731647366: New connection from 172.23.0.1:49694 on port 1883.
+1731647366: New client connected from 172.23.0.1:49694 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731647367: New connection from 172.23.0.1:49708 on port 1883.
+1731647367: New client connected from 172.23.0.1:49708 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731647602: Client Topdown_Sub closed its connection.
+1731647602: Client Topdown_Pub closed its connection.
+1731647610: New connection from 172.23.0.1:56918 on port 1883.
+1731647610: New client connected from 172.23.0.1:56918 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731647611: New connection from 172.23.0.1:56932 on port 1883.
+1731647611: New client connected from 172.23.0.1:56932 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731647703: Client Topdown_Pub closed its connection.
+1731647703: Client Topdown_Sub closed its connection.
+1731647772: New connection from 172.23.0.1:50854 on port 1883.
+1731647772: New client connected from 172.23.0.1:50854 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731647773: New connection from 172.23.0.1:50870 on port 1883.
+1731647773: New client connected from 172.23.0.1:50870 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731647800: Client mqttx_a2f7a187 has exceeded timeout, disconnecting.
+1731647804: New connection from 172.23.0.1:45024 on port 1883.
+1731647804: New client connected from 172.23.0.1:45024 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731648060: Client Topdown_Pub closed its connection.
+1731648060: Client Topdown_Sub closed its connection.
+1731648558: Client mqttx_a2f7a187 disconnected.
+1731648599: New connection from 172.23.0.1:57338 on port 1883.
+1731648599: New client connected from 172.23.0.1:57338 as mqttx_cef98842 (p5, c1, k60, u'Topdown').
+1731648619: New client connected from ::ffff:172.23.0.1:41524 as mqttjs_d2d5a8a8 (p2, c1, k60, u'Topdown').
+1731648619: New client connected from ::ffff:172.23.0.1:41538 as mqttjs_ef4d9073 (p2, c1, k60, u'Topdown').
+1731648650: Client mqttx_cef98842 closed its connection.
+1731648712: Client mqttjs_d2d5a8a8 closed its connection.
+1731648834: New connection from 172.23.0.1:53190 on port 1883.
+1731648834: New client connected from 172.23.0.1:53190 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731648835: New connection from 172.23.0.1:53202 on port 1883.
+1731648835: New client connected from 172.23.0.1:53202 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731648845: New connection from 172.23.0.1:57270 on port 1883.
+1731648845: New client connected from 172.23.0.1:57270 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731648922: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731648952: Client mqttx_a2f7a187 disconnected.
+1731648974: New connection from 172.23.0.1:58654 on port 1883.
+1731648974: New client connected from 172.23.0.1:58654 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731649034: New connection from 172.23.0.1:59450 on port 1883.
+1731649034: New client connected from 172.23.0.1:59450 as mqttx_cef98842 (p5, c1, k60, u'Topdown').
+1731649035: Client mqttx_cef98842 closed its connection.
+1731649048: New connection from 172.23.0.1:40830 on port 1883.
+1731649048: New client connected from 172.23.0.1:40830 as mqttx_cef98842 (p5, c1, k60, u'Topdown').
+1731649067: Client mqttx_cef98842 closed its connection.
+1731649083: New connection from 172.23.0.1:36314 on port 1883.
+1731649083: New client connected from 172.23.0.1:36314 as mqttx_cef98842 (p5, c1, k60, u'Topdown').
+1731649131: Client Topdown_Pub has exceeded timeout, disconnecting.
+1731649131: Client Topdown_Sub has exceeded timeout, disconnecting.
+1731649167: Client mqttx_a2f7a187 has exceeded timeout, disconnecting.
+1731649249: New connection from 172.23.0.1:35972 on port 1883.
+1731649249: New client connected from 172.23.0.1:35972 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731649250: New connection from 172.23.0.1:35982 on port 1883.
+1731649250: New client connected from 172.23.0.1:35982 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731649264: New connection from 172.23.0.1:37624 on port 1883.
+1731649265: New client connected from 172.23.0.1:37624 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731649277: Client Topdown_Pub closed its connection.
+1731649277: Client Topdown_Sub closed its connection.
+1731649302: Client mqttx_cef98842 closed its connection.
+1731649367: New connection from 172.23.0.1:36182 on port 1883.
+1731649367: New client connected from 172.23.0.1:36182 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731649367: New connection from 172.23.0.1:36186 on port 1883.
+1731649368: New client connected from 172.23.0.1:36186 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731649378: Client Topdown_Pub closed its connection.
+1731649378: Client Topdown_Sub closed its connection.
+1731649437: New connection from 172.23.0.1:43664 on port 1883.
+1731649437: New client connected from 172.23.0.1:43664 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731649437: New connection from 172.23.0.1:43672 on port 1883.
+1731649437: New client connected from 172.23.0.1:43672 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731649450: Client Topdown_Sub closed its connection.
+1731649450: Client Topdown_Pub closed its connection.
+1731649463: New connection from 172.23.0.1:46690 on port 1883.
+1731649463: New client connected from 172.23.0.1:46690 as mqttx_cef98842 (p5, c1, k60, u'Topdown').
+1731649522: New connection from 172.23.0.1:53114 on port 1883.
+1731649522: New client connected from 172.23.0.1:53114 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731649522: New connection from 172.23.0.1:53120 on port 1883.
+1731649523: New client connected from 172.23.0.1:53120 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731649528: Client Topdown_Sub closed its connection.
+1731649528: Client Topdown_Pub closed its connection.
+1731650199: Client mqttx_cef98842 has exceeded timeout, disconnecting.
+1731650212: Client mqttx_a2f7a187 closed its connection.
+1731650723: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731651044: Client mqttjs_ef4d9073 closed its connection.
+1731664974: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731664974: New client connected from ::ffff:172.23.0.1:37644 as mqttjs_ef4d9073 (p2, c1, k60, u'Topdown').
+1731665003: Client mqttjs_ef4d9073 closed its connection.
+1731665004: New client connected from ::ffff:172.23.0.1:50578 as mqttjs_a07621fb (p2, c1, k60, u'Topdown').
+1731665004: New client connected from ::ffff:172.23.0.1:50590 as mqttjs_e8680160 (p2, c1, k60, u'Topdown').
+1731665091: New connection from 172.23.0.1:49928 on port 1883.
+1731665091: New client connected from 172.23.0.1:49928 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731665100: Client mqttjs_a07621fb closed its connection.
+1731665150: Client mqttjs_e8680160 closed its connection.
+1731665170: New connection from 172.23.0.1:55624 on port 1883.
+1731665170: New client connected from 172.23.0.1:55624 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731665171: New connection from 172.23.0.1:55628 on port 1883.
+1731665171: New client connected from 172.23.0.1:55628 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731665217: Client Topdown_Pub closed its connection.
+1731665217: Client Topdown_Sub closed its connection.
+1731665222: New connection from 172.23.0.1:36852 on port 1883.
+1731665222: New client connected from 172.23.0.1:36852 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731665222: New connection from 172.23.0.1:36868 on port 1883.
+1731665223: New client connected from 172.23.0.1:36868 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731665267: New connection from 172.23.0.1:38612 on port 1883.
+1731665267: New client connected from 172.23.0.1:38612 as mqttx_cef98842 (p5, c1, k60, u'Topdown').
+1731665326: Client Topdown_Pub closed its connection.
+1731665326: Client Topdown_Sub closed its connection.
+1731665356: New connection from 172.23.0.1:53902 on port 1883.
+1731665356: New client connected from 172.23.0.1:53902 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731665356: New connection from 172.23.0.1:53908 on port 1883.
+1731665356: New client connected from 172.23.0.1:53908 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731665406: Client Topdown_Sub closed its connection.
+1731665406: Client Topdown_Pub closed its connection.
+1731665411: New connection from 172.23.0.1:53614 on port 1883.
+1731665411: New client connected from 172.23.0.1:53614 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731665411: New connection from 172.23.0.1:53622 on port 1883.
+1731665411: New client connected from 172.23.0.1:53622 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731665491: Client Topdown_Pub closed its connection.
+1731665491: Client Topdown_Sub closed its connection.
+1731665501: New connection from 172.23.0.1:42388 on port 1883.
+1731665501: New client connected from 172.23.0.1:42388 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731665502: New connection from 172.23.0.1:42390 on port 1883.
+1731665502: New client connected from 172.23.0.1:42390 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731665530: Client Topdown_Pub closed its connection.
+1731665530: Client Topdown_Sub closed its connection.
+1731665533: New connection from 172.23.0.1:40770 on port 1883.
+1731665533: New client connected from 172.23.0.1:40770 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731665533: New connection from 172.23.0.1:40782 on port 1883.
+1731665533: New client connected from 172.23.0.1:40782 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731665712: Client Topdown_Sub closed its connection.
+1731665712: Client Topdown_Pub closed its connection.
+1731665719: New connection from 172.23.0.1:41874 on port 1883.
+1731665720: New client connected from 172.23.0.1:41874 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731665720: New connection from 172.23.0.1:41890 on port 1883.
+1731665720: New client connected from 172.23.0.1:41890 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731665814: Client Topdown_Pub closed its connection.
+1731665814: Client Topdown_Sub closed its connection.
+1731665823: New connection from 172.23.0.1:34174 on port 1883.
+1731665823: New client connected from 172.23.0.1:34174 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731665823: New connection from 172.23.0.1:34188 on port 1883.
+1731665823: New client connected from 172.23.0.1:34188 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731666076: Client Topdown_Pub closed its connection.
+1731666076: Client Topdown_Sub closed its connection.
+1731666081: New connection from 172.23.0.1:36350 on port 1883.
+1731666081: New client connected from 172.23.0.1:36350 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731666081: New connection from 172.23.0.1:36362 on port 1883.
+1731666081: New client connected from 172.23.0.1:36362 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731666106: Client Topdown_Pub closed its connection.
+1731666106: Client Topdown_Sub closed its connection.
+1731666109: New connection from 172.23.0.1:53388 on port 1883.
+1731666109: New client connected from 172.23.0.1:53388 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731666110: New connection from 172.23.0.1:53404 on port 1883.
+1731666110: New client connected from 172.23.0.1:53404 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731666142: Client Topdown_Sub closed its connection.
+1731666142: Client Topdown_Pub closed its connection.
+1731666157: New connection from 172.23.0.1:57956 on port 1883.
+1731666157: New client connected from 172.23.0.1:57956 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731666157: New connection from 172.23.0.1:57958 on port 1883.
+1731666157: New client connected from 172.23.0.1:57958 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731666221: Client Topdown_Sub closed its connection.
+1731666221: Client Topdown_Pub closed its connection.
+1731666242: New connection from 172.23.0.1:36960 on port 1883.
+1731666242: New client connected from 172.23.0.1:36960 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731666242: New connection from 172.23.0.1:36962 on port 1883.
+1731666243: New client connected from 172.23.0.1:36962 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731666462: Client mqttx_a2f7a187 has exceeded timeout, disconnecting.
+1731666466: New connection from 172.23.0.1:55132 on port 1883.
+1731666466: New client connected from 172.23.0.1:55132 as mqttx_a2f7a187 (p5, c1, k60, u'Topdown').
+1731666729: Client Topdown_Sub closed its connection.
+1731666729: Client Topdown_Pub closed its connection.
+1731666761: New connection from 172.23.0.1:53402 on port 1883.
+1731666762: New client connected from 172.23.0.1:53402 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731666762: New connection from 172.23.0.1:53414 on port 1883.
+1731666762: New client connected from 172.23.0.1:53414 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731666775: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731666948: Client Topdown_Pub closed its connection.
+1731666948: Client Topdown_Sub closed its connection.
+1731667010: New connection from 172.23.0.1:32964 on port 1883.
+1731667011: New client connected from 172.23.0.1:32964 as Topdown_Pub (p2, c1, k20, u'Topdown').
+1731667011: New connection from 172.23.0.1:32980 on port 1883.
+1731667011: New client connected from 172.23.0.1:32980 as Topdown_Sub (p2, c1, k20, u'Topdown').
+1731667380: Client mqttx_cef98842 has exceeded timeout, disconnecting.
+1731667385: New connection from 172.23.0.1:51554 on port 1883.
+1731667385: New client connected from 172.23.0.1:51554 as mqttx_cef98842 (p5, c1, k60, u'Topdown').
+1731667490: Client mqttx_cef98842 disconnected.
+1731667490: Client Topdown_Pub closed its connection.
+1731667490: Client Topdown_Sub closed its connection.

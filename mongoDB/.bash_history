@@ -5,3 +5,7 @@ ls -lh mongodb-shell_5.0.5_amd64.deb
 wget https://downloads.mongodb.com/compass/mongodb-shell_5.0.5_amd64.deb
 ls -lh mongodb-shell_5.0.5_amd64.deb
 exit
+mongo
+show
+logout
+exit
